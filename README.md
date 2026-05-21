@@ -9,7 +9,7 @@ I started in data — spreadsheets, then SQL, then Python pipelines across Mongo
 #### 🛠️ What I'm doing now
 
 - Shipping features on a **Next.js + TypeScript** product backed by **Postgres / Supabase** — auth, payments, collections, dashboard. Frontend, backend, DB on the same task. No handoff.
-- Making the app **agent-ready**: building **MCP servers** and skill files so AI agents can drive core product workflows.
+- Making the app **agent-ready**: building **MCP servers** and skills so AI agents can drive core product workflows.
 - On the side: building AI agents and going deep on **context management, RAG, multi-agent loops, and MCP / tool design**.
 
 #### 🧭 Where I'm headed
@@ -37,7 +37,3 @@ Full-stack product work + AI engineering. More interested in systems that think,
 ---
 
 #### 📈 GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SoroushIsHere&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushIsHere&layout=compact&hide_border=true&theme=tokyonight)
-
